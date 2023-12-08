@@ -1,0 +1,8 @@
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\bin\Debug\QueueTest.exe.config
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\obj\Debug\QueueTest.csproj.AssemblyReference.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\obj\Debug\QueueTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\obj\Debug\QueueTest.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\obj\Debug\QueueTest.exe
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\QueueTest\QueueTest\obj\Debug\QueueTest.pdb
