@@ -1,0 +1,8 @@
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\bin\Debug\Stack_ImpArray.exe.config
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\bin\Debug\Stack_ImpArray.exe
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\bin\Debug\Stack_ImpArray.pdb
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\obj\Debug\Stack_ImpArray.csproj.AssemblyReference.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\obj\Debug\Stack_ImpArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\obj\Debug\Stack_ImpArray.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\obj\Debug\Stack_ImpArray.exe
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Stack_ImpArray\Stack_ImpArray\obj\Debug\Stack_ImpArray.pdb
