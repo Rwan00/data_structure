@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostfixInfix_imp", "PostfixInfix_imp\PostfixInfix_imp.csproj", "{A81C428C-4561-43D6-BED7-C523C791560C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81C428C-4561-43D6-BED7-C523C791560C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81C428C-4561-43D6-BED7-C523C791560C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81C428C-4561-43D6-BED7-C523C791560C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81C428C-4561-43D6-BED7-C523C791560C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4E11A52-3582-49E6-9EE9-F8E1F3C5F92A}
+	EndGlobalSection
+EndGlobal

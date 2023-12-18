@@ -1,0 +1,3 @@
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\PostfixInfix_imp\PostfixInfix_imp\obj\Debug\PostfixInfix_imp.csproj.AssemblyReference.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\PostfixInfix_imp\PostfixInfix_imp\obj\Debug\PostfixInfix_imp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\PostfixInfix_imp\PostfixInfix_imp\obj\Debug\PostfixInfix_imp.csproj.CoreCompileInputs.cache
