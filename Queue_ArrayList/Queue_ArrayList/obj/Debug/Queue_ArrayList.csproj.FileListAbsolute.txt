@@ -1,0 +1,8 @@
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\bin\Debug\Queue_ArrayList.exe.config
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\bin\Debug\Queue_ArrayList.exe
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\bin\Debug\Queue_ArrayList.pdb
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\obj\Debug\Queue_ArrayList.csproj.AssemblyReference.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\obj\Debug\Queue_ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\obj\Debug\Queue_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\obj\Debug\Queue_ArrayList.exe
+C:\Users\Windows 10 Pro\source\repos\C#\DataStructure\Queue_ArrayList\Queue_ArrayList\obj\Debug\Queue_ArrayList.pdb
